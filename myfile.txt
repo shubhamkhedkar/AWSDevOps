@@ -1,0 +1,3 @@
+Updated myfile.txt to a clearer and corrected AWS-related sentence:
+
+"This is my first AWS project working with clouds."
